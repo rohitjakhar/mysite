@@ -10,7 +10,7 @@ import {
 } from "@chakra-ui/react"
 
 export default function About() {
-  const Feature = (props) => {
+  const Feature = (props: { icon: boolean | React.ReactChild | React.ReactFragment | React.ReactPortal | null | undefined; title: boolean | React.ReactChild | React.ReactFragment | React.ReactPortal | null | undefined; children: boolean | React.ReactChild | React.ReactFragment | React.ReactPortal | null | undefined }) => {
     return (
       <Box>
         <Icon
