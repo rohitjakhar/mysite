@@ -76,7 +76,7 @@ const Hero = () => {
             mb={{ base: 2, sm: 0 }}
             size="lg"
             cursor="pointer"
-            href="https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.md"
+            href="https://drive.google.com/file/d/1I7CCGgEyDyvEripqdFxeoMEbjtsjbmMO/view?usp=sharing"
           >
             Resume
           </Button>
@@ -94,8 +94,8 @@ const Hero = () => {
           w="full"
           rounded="lg"
           shadow="2xl"
-          src="/doug.gif"
-          alt="Hellonext feedback boards software screenshot"
+          src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
+          alt="Software Gif"
         />
       </Box>
     </Box>

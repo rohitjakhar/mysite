@@ -12,7 +12,6 @@ const SEO = ({title} : {title : string}) => {
       <meta name="title" content={`Rohit Jakhar — ${title}`}/>
       <meta name="description" content="Android Developer."/>
 
-
       <meta property="og:type" content="website"/>
       <meta property="og:url" content="https://rohitjakhar.me/"/>
       <meta property="og:title" content={`Rohit Jakhar — ${title}`}/>
