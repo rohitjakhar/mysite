@@ -54,7 +54,7 @@ export default function Achievement() {
         // shadow="xl"
       >
         <Feature
-          title="Building Scalable Application"
+          title="Win Hashnode x HarperDB Hackathon"
           icon={
             <path
               strokeLinecap="round"
@@ -64,14 +64,12 @@ export default function Achievement() {
             />
           }
         >
-            Building applications is fun. I love creating scalable,
-            development tools and building services that power the
-            future of the app. I'm excited to be working with you to
-            bring your vision to life.
+            Build Project using HarperDB as a backend within 30 days.
+            I got 7th position in runner-up out of 75 participate.
         </Feature>
   
         <Feature
-          title="Redesigning User Experience"
+          title="Win Hashnode x Auth0 Hackathon"
           icon={
             <path
               fillRule="evenodd"
@@ -80,10 +78,8 @@ export default function Achievement() {
             />
           }
         >
-            Creating user friendly interfaces is an art that takes time.
-            It's important to test your designs on the early adopters of
-            technology. I can help you build seamless designs and user
-            experience.
+            Build Project using Auth0 as a authentic service within 30 days.
+            I got 7th position in runner-up out of 75 participate.
         </Feature>
   
         <Feature
@@ -97,10 +93,7 @@ export default function Achievement() {
             />
           }
         >
-            It's important to have the ability to collaborate with other
-            people so you can better your skills, share your ideas, and
-            network. I'm building up a community on discord for everyone
-            to grow together.
+            Take Part in Hacktoberfest in 2021 and 2021 and complete 4 pull request in open-source project.
         </Feature>
       </SimpleGrid>
     </>
