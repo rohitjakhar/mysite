@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rohitjakhar.me
+Token: 1270a02e7e64cd9d39292a1ca5eeb862ee7cdbc6bb0bb45866634a07dc22768e
