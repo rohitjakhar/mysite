@@ -46,7 +46,7 @@ const Highlight = () => {
         <Box mt={8}>
           <Button
             as="a"
-            href="https://calendly.com/aarushgoyal/15min"
+            href="https://calendly.com/rohitjakhar/30min"
             colorScheme="teal"
             px={5}
             py={3}
