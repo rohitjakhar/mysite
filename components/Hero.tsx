@@ -76,7 +76,7 @@ const Hero = () => {
             mb={{ base: 2, sm: 0 }}
             size="lg"
             cursor="pointer"
-            href="https://bit.ly/rohit-resume-pdf"
+            href="https://bit.ly/rohit-resume3"
           >
             Resume
           </Button>
