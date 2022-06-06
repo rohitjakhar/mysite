@@ -31,7 +31,7 @@ const SocialMediaLinks = () => {
       <Link href="https://dev.to/rohitjakhar">
         <FaDev size="25" color={useColorModeValue("black","white")} />
       </Link>
-      <Link href="https://linkedin.com/in/rohit-jakhar">
+      <Link href="https://www.linkedin.com/in/rohitjakhar0/">
         <FaLinkedin size="25" color={useColorModeValue("black","white")} />
       </Link>
       <Link href="https://twitter.com/rohitjakhar0">
