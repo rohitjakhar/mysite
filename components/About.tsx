@@ -43,7 +43,7 @@ export default function About() {
 
   return (
     <>
-      <Heading fontSize="7xl" align="center">About</Heading>
+      <Heading fontSize="7xl" alignContent="center">About</Heading>
       <SimpleGrid
         columns={{ base: 1, md: 2, lg: 3 }}
         spacing={20}

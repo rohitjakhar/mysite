@@ -43,7 +43,7 @@ export default function Achievement() {
 
   return (
     <>
-      <Heading fontSize="7xl" align="center">Achievement</Heading>
+      <Heading fontSize="7xl" alignContent="center">Achievement</Heading>
       <SimpleGrid
         columns={{ base: 1, md: 2, lg: 3 }}
         spacing={20}
